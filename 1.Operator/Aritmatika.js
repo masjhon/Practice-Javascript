@@ -2,4 +2,4 @@
     - = Pengurangan
     * = Perkalian
     / = Pembagian
-    % = Modulus ( Hasil sisa pembagian)
+    % = Modulus //Hasil sisa pembagian
