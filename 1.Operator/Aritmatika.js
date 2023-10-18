@@ -1,5 +1,5 @@
-//    + = Penambahan
-//    - = Pengurangan
-//    * = Perkalian
-//    / = Pembagian
-//    % = Modulus ( Hasil sisa pembagian)
+    + = Penambahan
+    - = Pengurangan
+    * = Perkalian
+    / = Pembagian
+    % = Modulus ( Hasil sisa pembagian)
